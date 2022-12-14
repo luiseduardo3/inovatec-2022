@@ -23,4 +23,4 @@
 
 [SLIDES - NO CANVA](https://www.canva.com/design/DAFUUw6PKbw/6qqwiZ3LXsPw-Lr0ZXv_kA/edit?utm_content=DAFUUw6PKbw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[PROTOTIPO AO VIVO Up Economy](https://tecpower-7igr-gix3jzi1a-luiseduardo3.vercel.app/)
+[PROTOTIPO AO VIVO Up Economy](https://tecpower-front.vercel.app/)
