@@ -1,8 +1,17 @@
 # Projeto de Inovação (Inovatec 2022)
 
-## Integrantes 
+## Integrantes
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+- Jéssica Mayara Ferreira de Lima(Gestão de Marketing);
+- Damaris Amancio Silva (Gestão de Marketing);
+
+- Luis Eduardo Pereira de Oliveira (Gestão Executiva);
+- Emanuela Aparecida Gonçalves Caetano (Gestão Executiva);
+- Julia Maria Lima da Silva (Gestão Executiva);
+- Tamires Araújo firmino (Gestão Executiva);
+
+- Anderson Papa Rosa (Gestão Operacional);
+- Barbara Kerolaine da Cruz Menezes (Gestão Operacional);
 
 ## Passos
 
